@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Victor
 
 🎓 Computer Science student  
-💻 Interested in software development, UI design & computer architecture
+💻 Interested in software development, UI/UX design & computer architecture
 
 ## 🛠️ Tech Stack
 
